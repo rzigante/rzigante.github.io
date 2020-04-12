@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Rodrigo Zigante"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "M.S. in Statistics and Industrial Engineering"
   location         : "Chile"
   email            : "rodrigo.zigante@gmail.com"
